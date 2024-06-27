@@ -10,7 +10,7 @@
 
 3- New terminal: 
 ```
-   * echo {url} | base64
+    echo {url} | base64
 ```
 ```
 4- http://localhost:8080/?urlBase64={url}=&size=150
