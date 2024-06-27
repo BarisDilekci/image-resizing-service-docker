@@ -5,7 +5,7 @@
 1- docker build -t python-app .
 ```
 ```
-2- docker run --rm -i -t -p 8080:18080 python-app
+2- docker run --rm -it -p 8080:18080 python-app
 ```
 
 3- New terminal: 
