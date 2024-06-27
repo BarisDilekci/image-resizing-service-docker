@@ -26,3 +26,5 @@ Returns the resized image, or an image of the original size if size is less than
   `echo -n "http://storage.googleapis.com/myBucketName/Image_Name.jpg" | base64`
 * Use curl to access the service, providing that base64 encoded URL value:
   `time curl http://localhost:18080/?size=800&urlBase64=aHR0cDovL3N0b3J...bi5qcGc= > output.jpg`
+
+Original repo : https://github.com/vmware-archive/image-resizing-service
