@@ -1,0 +1,1 @@
+# image-resizing-service-docker
